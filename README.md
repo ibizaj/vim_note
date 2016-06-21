@@ -1,4 +1,5 @@
 Work with multiple files in Vim 
+===============================
 
 ref: <http://stackoverflow.com/questions/53664/how-to-effectively-work-with-multiple-files-in-vim>
 
