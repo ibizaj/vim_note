@@ -1,8 +1,12 @@
 Work with multiple files in Vim 
+
 ref: <http://stackoverflow.com/questions/53664/how-to-effectively-work-with-multiple-files-in-vim>
+
 `:ls`
 ----
+
 for list of open buffers
+
 *	`:bp` previous buffer
 *	`:bn` next buffer
 *	`:bn` (`n` a number) move to n'th buffer
